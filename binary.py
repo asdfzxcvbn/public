@@ -57,3 +57,5 @@ while True:
 
 specexit(0)
 # made really lazily, so it sucks.
+## i've just learnt there's a `bin()` function.
+## hooray.
